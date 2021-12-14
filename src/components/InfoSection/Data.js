@@ -1,0 +1,16 @@
+export const homeObjOne = {
+  id: "about",
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: "My Portfolio",
+  headLine: "Bangun brand perusahaan anda dengan membuat Landing Page profesional.",
+  description: "Dapatkan penawaran eksklusif dari kami untuk membangun brand perusahaan Anda lebih profesional tanpa biaya yang mahal.",
+  buttonLabel: "Get started",
+  imgStart: false,
+  img: "https://filedn.com/lmwhxh5a0dX5XBLIJgYg8Jp/image-portfolio-dummy/undraw_startup_life_re_8ow9.svg",
+  alt: "Startup",
+  dark: true,
+  primary: true,
+  darkText: false,
+};
