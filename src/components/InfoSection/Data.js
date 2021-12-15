@@ -4,7 +4,7 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: "My Portfolio",
-  headLine: "Bangun brand perusahaan anda dengan membuat Landing Page profesional.",
+  headLine: "Free Custom Low Budged",
   description: "Dapatkan penawaran eksklusif dari kami untuk membangun brand perusahaan Anda lebih profesional tanpa biaya yang mahal.",
   buttonLabel: "Get started",
   imgStart: false,
