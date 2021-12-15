@@ -3,7 +3,7 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "My Portfolio",
+  topLine: "Anaphalis Inc",
   headLine: "Free Custom Low Budged",
   description: "Dapatkan penawaran eksklusif dari kami untuk membangun brand perusahaan Anda lebih profesional tanpa biaya yang mahal.",
   buttonLabel: "Get started",
@@ -13,4 +13,38 @@ export const homeObjOne = {
   dark: true,
   primary: true,
   darkText: false,
+};
+
+export const homeObjTwo = {
+  id: "discover",
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: "Free Design",
+  headLine: "User Friendly and Optimize",
+  description: "Dapatkan penawaran eksklusif dari kami untuk membangun brand perusahaan Anda lebih profesional tanpa biaya yang mahal.",
+  buttonLabel: "Learn More",
+  imgStart: true,
+  img: "https://filedn.com/lmwhxh5a0dX5XBLIJgYg8Jp/image-portfolio-dummy/undraw_savings_re_eq4w.svg",
+  alt: "save-money",
+  dark: false,
+  primary: false,
+  darkText: true,
+};
+
+export const homeObjThree = {
+  id: "signup",
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: "Free Signup Now",
+  headLine: "Free Custom Low Budged",
+  description: "Dapatkan penawaran eksklusif dari kami untuk membangun brand perusahaan Anda lebih profesional tanpa biaya yang mahal.",
+  buttonLabel: "Start Now",
+  imgStart: true,
+  img: "https://filedn.com/lmwhxh5a0dX5XBLIJgYg8Jp/image-portfolio-dummy/undraw_programming_re_kg9v.svg",
+  alt: "Startup",
+  dark: false,
+  primary: false,
+  darkText: true,
 };
