@@ -22,26 +22,25 @@ const Footer = () => {
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
-              <FooterLink to="/">Join us</FooterLink>
-              <FooterLink to="/">Testimonials</FooterLink>
-              <FooterLink to="/">Clients</FooterLink>
-              <FooterLink to="/">Term of Service</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
             </FooterLinkItems>
           </FooterLinkWrapper>
           <FooterLinkWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>Videos</FooterLinkTitle>
-              <FooterLink to="/">Join us</FooterLink>
-              <FooterLink to="/">Testimonials</FooterLink>
-              <FooterLink to="/">Clients</FooterLink>
-              <FooterLink to="/">Term of Service</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
+              <FooterLink to="/">Lorem Ipsum</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Social Media</FooterLinkTitle>
-              <FooterLink to="/">Join us</FooterLink>
-              <FooterLink to="/">Testimonials</FooterLink>
-              <FooterLink to="/">Clients</FooterLink>
-              <FooterLink to="/">Term of Service</FooterLink>
+              <FooterLink to="/">Twitter</FooterLink>
+              <FooterLink to="/">Github</FooterLink>
+              <FooterLink to="/">LinkedIn</FooterLink>
             </FooterLinkItems>
           </FooterLinkWrapper>
         </FooterLinkContainer>

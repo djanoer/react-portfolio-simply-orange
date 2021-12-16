@@ -19,7 +19,7 @@ const HeroSection = () => {
         <HeroH1>My Name is dave_id</HeroH1>
         <HeroP>Buat akun anda hari ini dan dapatkan kupon undian, untuk bisa kopdar bareng saya.</HeroP>
         <HeroBtnWrapper>
-          <Button to="signup" onMouseEnter={onHover} onMouseLeave={onHover} primary="true" dark="true">
+          <Button to="signup" onMouseEnter={onHover} onMouseLeave={onHover} primary="true" dark="true" smooth={true} duration={500} spy={true} exact="true" offset={-80}>
             Get Started {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
